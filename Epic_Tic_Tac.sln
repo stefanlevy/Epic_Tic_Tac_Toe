@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic_Tic_Tac", "Epic_Tic_Tac\Epic_Tic_Tac.csproj", "{F142BFDD-C4C8-43A3-A1A8-F6BFA3F3679B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic_Tic_Tac.Tests", "Epic_Tic_Tac.Tests\Epic_Tic_Tac.Tests.csproj", "{EE62C2B8-DD8D-4C76-990E-FBDB7AF3F40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F142BFDD-C4C8-43A3-A1A8-F6BFA3F3679B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F142BFDD-C4C8-43A3-A1A8-F6BFA3F3679B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F142BFDD-C4C8-43A3-A1A8-F6BFA3F3679B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F142BFDD-C4C8-43A3-A1A8-F6BFA3F3679B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE62C2B8-DD8D-4C76-990E-FBDB7AF3F40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE62C2B8-DD8D-4C76-990E-FBDB7AF3F40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE62C2B8-DD8D-4C76-990E-FBDB7AF3F40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE62C2B8-DD8D-4C76-990E-FBDB7AF3F40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
